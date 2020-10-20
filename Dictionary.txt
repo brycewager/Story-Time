@@ -57,3 +57,6 @@ wettbewerbsfaehig - Competitive
 
 Schneewittchen - Snow White
   The character from the fairy tale.
+
+Oranienburg - Oranienburg
+  A town in Germany.
