@@ -7,8 +7,8 @@ Group Oranienburg2 */
 WHAT TO DO >
 
 1. Create 2 separate branches off of the main branch
-    a) Name one branch "<YOUR FIRST NAME>_one". So the branch for Bryce Wager would be "bryce_one". Make sure you have a file Story.txt.
-    b) Name the other "<YOUR FIRST NAME>_two". Make sure you have a file Story.txt.
+    a) Name one branch "FNAME_one". So the branch for Bryce Wager would be "bryce_one". Make sure you have a file Story.txt.
+    b) Name the other "FNAME_two". Make sure you have a file Story.txt.
 
 2a. Check out the repo for any branches that have already been created by other members.
     THIS IS IMPORTANT because you'll need to see which words have already been used.
